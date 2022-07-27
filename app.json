@@ -1,0 +1,285 @@
+{
+      "name": "Star X Spam ",
+      "description": "A telethon Based Spam Bots With Many Cmds Fast And Stable",
+      "logo": "https://telegra.ph/file/ec832fc9107fd21edfee3.jpg",
+      "keywords": [
+        "telegram",
+        "PYROGRAM",
+        "telegram-bot",
+        "StarXSpam",
+        "SpamBots"
+      ],   
+  "repository": "https://github.com/Starboihacks369/SpamX",
+  "website": "https://github.com/Starboihacks369",
+  "env": {
+            "API_ID": {
+        "description": "Fill Api ID Take this value from My.telegram.org",
+        "value": "",
+        "required": true
+      },
+      "API_HASH": {
+        "description": "Fill Api hash Take this value from My.telegram.org",
+        "value": "",
+        "required": true
+      },
+      "ALIVE_NAME": {
+        "description": "Fill Owner's Name
+        "required": false
+      },
+      "ALIVE_PIC": {
+        "description": "your alive pic or video",
+        "value": "",
+        "required": false
+      },
+      "ALIVE_TEXT": {
+        "description": "Fill Alive Text. (Optional)",
+        "value": "",
+        "required": false
+      },
+      "CMD_HNDLR": {
+        "description": "Your Spam Userbot's Command handler ",
+        "value": "",
+        "required": true
+      },
+      "HEROKU_APP_NAME": {
+        "description": "Your heroku app/bot's name",
+        "value": "",
+        "required": true
+      },
+      "HEROKU_API_KEY": {
+        "description": "Your Heroku account's API key",
+        "value": "",
+        "required": true
+      },
+      "STRING": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": true
+      },
+      "STRING2": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING3": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING4": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING5": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING6": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING7": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING8": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING9": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING10": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING11": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING12": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING13": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING14": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING15": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING16": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING17": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING18": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING19": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING20": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING21": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING22": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING23": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING24": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING25": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING26": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING27": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING28": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING29": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING30": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING31": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING32": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING33": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING34": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING35": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING36": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING37": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING38": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING39": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "STRING40": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": false
+      },
+      "SUDO_USER": {
+        "description": "Sudo users id saparated by space or leave it blank",
+        "value": "",
+        "required": false
+      },  
+      "OWNER_ID": {
+        "description": "TELETHON STRING Session ",
+        "value": "",
+        "required": true
+      },    
+      "FULLSUDO": {
+        "description": "Full Sudo Users Id (This Sudo Users have All access of Spam Userbots
+",
+        "value": "",
+        "required": false
+      },   
+      
+    },
+  "addons": [
+    {
+      "plan": "heroku-postgresql",
+      "options": {
+        "version": "12"
+      }
+    }
+  ],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
