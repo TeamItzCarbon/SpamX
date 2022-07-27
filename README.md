@@ -19,10 +19,6 @@
 - ➥ You Can Also Add Members Using Spam Bots
 
 
-### Generate String Session From Below :
-
-[GenerateString](https://t.me/STRING_SESSION_MAKER_BOT)  ``Telethon``
-
 # Deploy To Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BeingMighty/MightyIDSpamDeploy)
@@ -31,11 +27,27 @@
 # ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs
 [Commands](https://t.me/Spam_Resources/3)
 
-# Support & Updates
-* [⚡ Updates Channel ⚡](https://t.me/its_star_network)
+<h3 align="center"> String Session </h3>
 
-* [✨ Support Group ✨](https://t.me/Best_FriendsFor_Ever)
+> Click On Below Button To Expand 
+
+<details>
+<summary><b> Session </b></summary>
 <br>
+× <i> You'll need a API_ID & API_HASH in order to generate telethon session string. Get This Values from https://my.telegram.org </i>
+<h4>• Generate Session Using Telegram Bot: </h4>    
+<p><a href="http://t.me/STRING_SESSION_MAKER_BOT?start=generate"><img src="https://telegra.ph/file/1ccff3d3c8535d614ddf9.jpg" width="150""/></a></p>
+
+</details>
+
+----
+
+<h3 align="center"> Support: </h3>
+
+  * <i> Channel </i>: [@Its_Star_Network](https://t.me/Its_Star_Network) <br>
+  * <i> Support </i>: [@Best_FriendsFor_Ever](https://t.me/Best_FriendsFor_Ever)
+
+----
 
 <details>
  
