@@ -4,7 +4,7 @@
       "logo": "https://telegra.ph/file/ec832fc9107fd21edfee3.jpg",
       "keywords": [
         "telegram",
-        "TELETHON",
+        "PYROGRAM",
         "telegram-bot",
         "StarXSpam",
         "SpamBots"
@@ -23,7 +23,7 @@
         "required": true
       },
       "ALIVE_NAME": {
-        "description": "Fill Owner's Name
+        "description": "Fill Owner's Name",
         "required": false
       },
       "ALIVE_PIC": {
@@ -262,8 +262,7 @@
         "required": true
       },    
       "FULLSUDO": {
-        "description": "Full Sudo Users Id (This Sudo Users have All access of Spam Userbots
-",
+        "description": "Full Sudo Users Id (This Sudo Users have All access of Spam Userbots",
         "value": "",
         "required": false
       },      
