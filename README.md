@@ -21,7 +21,7 @@
 
 ### Generate String Session From Below :
 
-[!GenerateString](https://t.me/STRING_SESSION_MAKER_BOT)  ``Telethon``
+[GenerateString](https://t.me/STRING_SESSION_MAKER_BOT)  ``Telethon``
 
 # Deploy To Heroku
 
@@ -29,7 +29,7 @@
 
 
 # ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs
-[!Commands](https://t.me/Spam_Resources/3)
+[Commands](https://t.me/Spam_Resources/3)
 
 # Support & Updates
 * [⚡ Updates Channel ⚡](https://t.me/its_star_network)
