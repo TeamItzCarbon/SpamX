@@ -1,0 +1,5 @@
+build:
+  docker:
+    Star: Dockerfile
+run:
+  Star: python3 -m StarXSpam

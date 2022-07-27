@@ -1,0 +1,1 @@
+Star: python -m StarXSpam
