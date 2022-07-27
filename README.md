@@ -3,14 +3,6 @@
 </p>
 <h1 align="center">
   <b>⚠️  𝘚𝘵𝘢𝘳 𝘟 𝘚𝘱𝘢𝘮 ⚠️</b>
-</h1>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStarboihacks369%2FSpamX&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://github.com/Starboihacks369/SpamX)
-[![Forks](https://img.shields.io/github/forks/Starboihacks369/SpamX?style=flat-square&color=blue)](https://github.com/Starboihacks369/SpamX/fork)
-![Repo Size](https://img.shields.io/github/repo-size/Starboihacks369/SpamX?&color=limegreen&style=flat-square&logo=github)
-[![Python](https://img.shields.io/badge/Python-v3.9.7-blue?style=flat-square)](https://www.python.org/)
-
-----
  
 - ➥ ⚡ 𝐅𝐚𝐬𝐭 & 𝐒𝐭𝐚𝐛𝐥𝐞 ⚡
 - ➥ Deploy Upto 40 UserBots in One Time🔥
