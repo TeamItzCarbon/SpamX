@@ -29,7 +29,7 @@
 
 
 # ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs
-[Commands](https://t.me/Spam_Resources/3)
+[![Commands](https://t.me/Spam_Resources/3)]
 
 # Support & Updates
 * [⚡ Updates Channel ⚡](https://t.me/its_star_network)
